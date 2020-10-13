@@ -1,26 +1,44 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+//feature-1
 
-function App() {
+import React from 'react';
+import data from "./data.json";
+import Products from './components/Products';
+
+class App extends React.Component {
+constructor(){
+  super();
+  this.state = {
+    products: data.products,
+    tamanos:"",
+    sort:"",
+  };
+}
+
+  render(){ 
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="grid-container">
+      <header >
+        <a href="/"> CONCHA MADRE </a>
+
+        
+      </header>   
+      <main>
+        <div className="content">
+          <div className="main">
+              <Products products={this.state.products}>
+
+              </Products>
+          </div>
+     
+
+        </div>
+        </main>
+      <footer>
+        Concha Madre® Todos los Derechos Reservados. realizado por p.a.c.g
+      </footer>
     </div>
   );
+  }
 }
 
 export default App;

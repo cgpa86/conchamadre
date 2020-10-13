@@ -1,0 +1,111 @@
+{
+    "products":[
+        {            
+        "_id":"1",
+        "title":"La Codiciosa",
+        "image":"/images/codiciosa.png",
+        "descripcion":"Concha La Codiciosa"
+        },
+
+        {            
+            "_id":"2",
+            "title":"El Controlador",
+            "image":"/images/controlador.png",
+            "descripcion":"Concha El controlador"
+       
+            },
+            {            
+                "_id":"3",
+                "title":"CONCHA MEGA",
+                "image":"/images/mega.png",
+                "descripcion":"Mega Concha"
+        
+                },
+                {            
+                    "_id":"4",
+                    "title":"Mini Conchas",
+                    "image":"/images/mini1.jpg",
+                    "descripcion":"Mini Conchas (6 pz.)"
+                
+                    },
+                       {            
+                    "_id":"5",
+                    "title":"Concha Especial",
+                    "image":"/images/conchaesp.jpg",
+                    "descripcion":"Concha Especial"
+                
+                    },
+                       {            
+                    "_id":"6",
+                    "title":"El Dramático",
+                    "image":"/images/dramatico.png",
+                    "descripcion":"Mini Conchas (6 pz.)"
+                
+                    },
+                       {            
+                    "_id":"7",
+                    "title":"La Envidiosa",
+                    "image":"/images/envidiosa.png",
+                    "descripcion":"Concha con frutos"
+                
+                    },
+                       {            
+                    "_id":"8",
+                    "title":"La Glotona",
+                    "image":"/images/glotona.png",
+                    "descripcion":"Concha con Malvaviscos"
+                
+                    },
+                       {            
+                    "_id":"9",
+                    "title":"El Indeciso",
+                    "image":"/images/indeciso.png",
+                    "descripcion":"Concha con chispas de Chocolate"
+                
+                    },
+                       {            
+                    "_id":"10",
+                    "title":"La Lujuriosa",
+                    "image":"/images/lujuriosa.png",
+                    "descripcion":""
+                
+                    },
+                       {            
+                    "_id":"11",
+                    "title":"El manipulador",
+                    "image":"/images/manipulador.png",
+                    "descripcion":""
+                
+                    },
+                       {            
+                    "_id":"12",
+                    "title":"Pan de Muerto Relleno",
+                    "image":"/images/muertorelleno.jpg",
+                    "descripcion":" "
+                
+                    },
+                       {            
+                    "_id":"13",
+                    "title":"La Perezosa",
+                    "image":"/images/perezosa.jpg",
+                    "descripcion":"Mini Conchas (6 pz.)"
+                
+                    },
+                       {            
+                    "_id":"14",
+                    "title":"El Posesivo",
+                    "image":"/images/posesivo.png",
+                    "descripcion":""
+                
+                    },
+                       {            
+                    "_id":"15",
+                    "title":"La Rabiosa",
+                    "image":"/images/rabiosa.png",
+                    "descripcion":""
+                
+                    }
+
+
+    ]
+}
