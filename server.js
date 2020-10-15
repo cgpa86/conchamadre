@@ -2,7 +2,7 @@ const path = require('path');
 const express = require('express');
 const app = express();
 const colors = ('colors');
-//algo
+//algo que funciono es poniendo el build
 //const publicPath = path.join(__dirname,'public');
 const port = process.env.PORT || 5000;
 
