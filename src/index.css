@@ -31,14 +31,14 @@ textarea {
   height: 100%;
 }
 a:hover {
-  color: #d0adde ;
+  color: #ffe600 ;
   font-weight: bolder;
 }
 header {
   grid-area: header;
-  background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
-            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
-            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+  background: rgb(233,7,0);
+  background: radial-gradient(circle, rgba(233,7,0,1) 0%, rgba(16,126,8,1) 50%, rgba(228,14,180,1) 100%); 
+
   color: #ffffff;
   display: flex;
   align-items: center;
@@ -56,8 +56,8 @@ main {
 }
 footer {
   grid-area: footer;
-  background-color: #3d0061;
-  color: #ffffff;
+ background: rgb(70,0,233);
+background: radial-gradient(circle, rgba(70,0,233,1) 0%, rgba(8,121,126,1) 50%, rgba(228,14,14,1) 100%);   color: #ffffff;
   display: flex;
   justify-content: center;
   align-items: center;

@@ -7,6 +7,15 @@
         "descripcion":"Concha La Codiciosa"
         },
         
+
+                           {            
+                              "_id":"17",
+                              "title":"Especial Navidad",
+                              "image":"/images/navi.jpg",
+                              "descripcion":"Especial Navidad"
+                          
+                              },
+        
                         
                 {            
                     "_id":"16",
@@ -113,7 +122,15 @@
                         "image":"/images/mini1.jpg",
                         "descripcion":"Mini Conchas (6 pz.)"
                     
-                        }
+                        },
+
+                        {            
+                           "_id":"16",
+                           "title":"La Envidiosa",
+                           "image":"/images/envi.jpg",
+                           "descripcion":"Envidiosa"
+                       
+                           }
 
 
     ]
