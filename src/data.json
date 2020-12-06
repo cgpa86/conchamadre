@@ -6,6 +6,24 @@
         "image":"/images/codiciosa.png",
         "descripcion":"Concha La Codiciosa"
         },
+        
+
+                           {            
+                              "_id":"17",
+                              "title":"Especial Navidad",
+                              "image":"/images/navi.jpg",
+                              "descripcion":"Especial Navidad"
+                          
+                              },
+        
+                        
+                {            
+                    "_id":"16",
+                    "title":"Calabaconcha",
+                    "image":"/images/calabaconcha.jpg",
+                    "descripcion":"Calabaconcharellena"
+                
+                    },
 
         {            
             "_id":"2",
@@ -21,13 +39,6 @@
                 "descripcion":"Mega Concha"
         
                 },
-                {            
-                    "_id":"4",
-                    "title":"Mini Conchas",
-                    "image":"/images/mini1.jpg",
-                    "descripcion":"Mini Conchas (6 pz.)"
-                
-                    },
                        {            
                     "_id":"5",
                     "title":"Concha Especial",
@@ -104,7 +115,22 @@
                     "image":"/images/rabiosa.png",
                     "descripcion":""
                 
-                    }
+                    },
+                    {            
+                        "_id":"4",
+                        "title":"Mini Conchas",
+                        "image":"/images/mini1.jpg",
+                        "descripcion":"Mini Conchas (6 pz.)"
+                    
+                        },
+
+                        {            
+                           "_id":"16",
+                           "title":"La Envidiosa",
+                           "image":"/images/envi.jpg",
+                           "descripcion":"Envidiosa"
+                       
+                           }
 
 
     ]
