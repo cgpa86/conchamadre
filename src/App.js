@@ -18,7 +18,7 @@ constructor(){
   return (
     <div className="grid-container">
       <header >
-        <a href="/"> CONCHA MADRE®  </a>
+        <a href="/"> CONCHA MADRE ® | Conchas Rellenas </a>
 
         
       </header>   
@@ -34,7 +34,7 @@ constructor(){
         </div>
         </main>
       <footer>
-        Concha Madre®  | by p.a.c.g 
+        Concha Madre®  última actualización Dic 2020 | by p.a.c.g 
       </footer>
     </div>
   );
