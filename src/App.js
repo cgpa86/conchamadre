@@ -10,7 +10,7 @@ import {Grid, IconButton} from '@material-ui/core';
 
 import InstagramIcon from '@material-ui/icons/Instagram';
 import FacebookIcon from '@material-ui/icons/Facebook';
-
+import EmojiFoodBeverageTwoToneIcon from '@material-ui/icons/EmojiFoodBeverageTwoTone';
 
 class App extends React.Component {
 constructor(){
@@ -32,7 +32,10 @@ constructor(){
 
 
       <header >
-        <a href="/"> CONCHA MADRE ® | </a>
+     <IconButton> <EmojiFoodBeverageTwoToneIcon />
+    </IconButton>
+        <a href="/"> CONCHA MADRE ® |
+    </a>
 
   
         <Grid item  >
